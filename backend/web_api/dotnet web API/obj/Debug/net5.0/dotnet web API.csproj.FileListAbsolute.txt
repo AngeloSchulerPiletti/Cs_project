@@ -1,0 +1,58 @@
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\appsettings.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.exe
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.deps.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.runtimeconfig.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\ref\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.pdb
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\staticwebassets\dotnet web API.StaticWebAssets.Manifest.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\staticwebassets\dotnet web API.StaticWebAssets.xml
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\scopedcss\bundle\dotnet web API.styles.css
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.RazorTargetAssemblyInfo.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.csproj.CopyComplete
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\ref\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.pdb
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\appsettings.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.exe
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.deps.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.runtimeconfig.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\ref\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\dotnet web API.pdb
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\staticwebassets\dotnet web API.StaticWebAssets.Manifest.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\staticwebassets\dotnet web API.StaticWebAssets.xml
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\scopedcss\bundle\dotnet web API.styles.css
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.RazorTargetAssemblyInfo.cache
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.csproj.CopyComplete
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\ref\dotnet web API.dll
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.pdb
+C:\Users\angel\OneDrive\Documentos\Projetos GitHub\C#_Project\C#\dotnet web API\dotnet web API\obj\Debug\net5.0\dotnet web API.genruntimeconfig.cache
