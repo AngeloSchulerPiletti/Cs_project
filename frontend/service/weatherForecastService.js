@@ -3,7 +3,7 @@ import { API_URL } from "/service/serviceSettings";
 
 class WeatherForecastService {
     get() {
-        return axios.get(`${API_URL}rota_teste`).then((response) => {
+        return axios.get(`${API_URL}rota-exemplo`).then((response) => {
             return response.data;
         }).catch(console.log);
 
